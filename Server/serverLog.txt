@@ -1,0 +1,11 @@
+=====Server Starting=====
+called pwd, path name of working directory sent to client.
+called dir, list of file names in directory sent to client.
+called pwd, path name of working directory sent to client.
+Get success : file data sent to client.
+Get success : file data sent to client.
+Put success : Client successfully placed file.
+Put failure : Client tried to put a file with clashing name.
+Put success : Client successfully placed file.
+Put failure : Client tried to put a file with clashing name.
+=====Server Shutdown=====
